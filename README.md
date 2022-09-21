@@ -4,8 +4,8 @@ Sistema para cadastrar filmes e séries
 
 ## 🔨 Funcionalidades do projeto
 
-Cadastrar filmes e séries (nome, ano, duração/temporadas)
-Curtir (ou deixar um número aleatório)
+Cadastrar filmes e séries (nome, ano, duração/temporadas)  
+Curtir (ou deixar um número aleatório)  
 Listar os itens, verificar o tamanho e ver se o filme/série está cadastrado
 
 ## ✔️ Técnicas e tecnologias utilizadas
